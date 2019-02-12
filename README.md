@@ -1,1 +1,1 @@
-# BSU-Algotihms
+# BSU-Algorithms
